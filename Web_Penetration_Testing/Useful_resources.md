@@ -9,7 +9,7 @@ Cybersecurity is one of the fastest-growing fields, offering exciting career opp
 Building a strong foundation is key! Here are some excellent free resources:
 
 -  [PortSwigger's Web Security Academy](https://portswigger.net/web-security) - **Start here‼️**  
--  [CompTIA Security+ Free Course](https://www.youtube.com/@professormesser) *(Professor Messer YT channel)*  
+-  [CompTIA Security+ Free Course](https://www.youtube.com/@professormesser) *(Professor Messers' YT channel)*  
 -  [Hack The Box Academy](https://academy.hackthebox.com/catalogue) *(Some might be paid, but worth it!)*  
 -  [CS50’s Introduction to Cybersecurity (Harvard)](https://cs50.harvard.edu/cybersecurity/2023/)  
 -  [Antisyphon Training](https://www.antisyphontraining.com/pay-what-you-can/) *(Pay What You Can high-quality classes!)*  
